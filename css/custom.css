@@ -1,0 +1,20 @@
+/* your styles go here */
+ul {
+    padding-left: 23px;
+}
+.mail-link {
+    color: white;
+}
+.mail-link:hover {
+    color: #ccc;
+}
+.mail-link:focus {
+    color: #ccc;
+}
+.mail-link:hover {
+    color: #ccc;
+}
+.company-address {
+    /* font-style: normal; */
+    font-size: 0.8rem;
+}
